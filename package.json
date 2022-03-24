@@ -1,5 +1,5 @@
 {
-  "name": "fe-cli",
+  "name": "@winfrise/wf-cli",
   "version": "1.0.0",
   "description": "脚手架",
   "main": "index.js",
