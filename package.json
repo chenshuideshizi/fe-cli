@@ -4,7 +4,7 @@
   "description": "脚手架",
   "main": "index.js",
   "bin": {
-    "fe-cli": "./bin/cli.js"
+    "wf-cli": "./bin/cli.js"
   },
   "files": [
     "bin",
